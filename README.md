@@ -3,7 +3,7 @@ Sistema bancário básico em python.
 
 Olá meu nome é Leticia e estou realizando o bootcamp "Python AI Backend Developer" na DIO. Esse é o primeiro projeto a ser feito dentro do curso, nele é preciso programar um sistema bancário em python.
 
-O código deve atender as seguintes condições:
+O código atende as seguintes condições:
 - Depositar apenas valores positivos
 - O saldo com o valor depositado deve aparecer no extrato
 - Limite de três saques 
