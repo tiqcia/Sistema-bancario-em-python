@@ -1,7 +1,7 @@
 # sistema-bancario-em-python
 Sistema bancário básico em python.
 
-Olá meu nome é Leticia e estou realizando o bootcamp "Python AI Backend Developer".
+Olá meu nome é Leticia e estou realizando o bootcamp "Python AI Backend Developer" na DIO.
 
 Esse é o primeiro projeto a ser feito dentro do curso, nele é preciso programar um 
 sistema bancário em python
